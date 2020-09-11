@@ -1,4 +1,4 @@
-# Projet Analyse et restitution de données régionales de santé.
+# Analyse et restitution de données régionales de santé.
 
 Pour lire le code présent dans les 4 sprints, utiliser les fichiers xlsx fournis.
 
